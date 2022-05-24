@@ -1,1 +1,1 @@
-#samplecollection
+#medical-samplecollection
